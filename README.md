@@ -1,5 +1,6 @@
 # CarCrashingAnalysis
 Repository containing files of my Final Project in the Machine Learning Course.
+
 Project summary: Analyze New York City collision crash data to identify patterns and characteristics associated with car crashes. The project aims to uncover factors that may contribute to crash occurrences, such as drivers' behaviors, vehicle types, time of day, and high-risk neighborhoods.
 
 1. Introduction and discovery
